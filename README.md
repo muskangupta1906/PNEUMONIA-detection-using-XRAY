@@ -1,1 +1,4 @@
 # PNEUMONIA-detection-using-XRAY
+
+TENSORFLOW
+KERAS
