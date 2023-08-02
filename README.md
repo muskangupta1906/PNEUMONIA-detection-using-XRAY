@@ -1,4 +1,5 @@
 # PNEUMONIA-detection-using-XRAY
+Image classification model, using the Resnet50 architecture to detect pneumonia in chest X-ray scans.
 
 TENSORFLOW
 KERAS
